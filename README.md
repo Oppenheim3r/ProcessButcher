@@ -1,4 +1,6 @@
 # ProcessButcher  - Advanced Windows Threat Hunting Tool
+## Download
+[Download ProcessButcher v1.0](https://github.com/Oppenheim3r/ProcessButcher/releases/tag/ProcessButcher-1)
 
 ## Overview
 
