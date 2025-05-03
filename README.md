@@ -55,7 +55,7 @@ The tool will output detailed information for each analyzed process, including:
 *   **Protected Processes:** ProcessButcher may not be able to open or analyze certain protected system processes (e.g., PPL processes). Warnings will be printed for processes that cannot be opened.
 *   **Native API:** The tool relies heavily on undocumented Native APIs. Behavior might change between Windows versions. It was developed targeting Windows 10 (Redstone 2 ).
 *   **Handle Query Hangs:** `NtQueryObject` for `ObjectNameInformation` can sometimes hang indefinitely, especially for certain pipe handles. A timeout mechanism (TODO Item 014) is not yet implemented.
-*   **Error Handling:** Basic error handling is included, but further robustness improvements could be made.
+
 
 
 
