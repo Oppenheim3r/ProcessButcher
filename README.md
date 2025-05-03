@@ -36,11 +36,7 @@ Run `ProcessButcher.exe` from a command prompt with Administrator privileges (re
 
 # Analyze a specific process by PID
 .\ProcessButcher.exe -p <PID>
-.\ProcessButcher.exe --pid <PID>
-
-# Show help message
 .\ProcessButcher.exe -h
-.\ProcessButcher.exe --help
 ```
 
 **Output:**
